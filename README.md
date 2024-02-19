@@ -1,0 +1,2 @@
+- Hi, I’m Tuomas Pääkkönen (@tpaakkonen-mercuria), Data Science intern on the Gas desk.
+- How to reach me: tpaakkonen@mercuria.com
